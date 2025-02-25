@@ -1,3 +1,5 @@
+This project was developed as part of a university assignment in collaboration with a colleague. I was responsible for the backend, including database design, implementation, triggers, and stored procedures
+
 # League of Legends Game Manager
 
 Welcome to the **League of Legends Game Manager**! This application is designed to provide a streamlined and interactive experience for managing aspects of the game. Players can purchase champions and skins, simulate matches, and administrators have full access to monitor and manage the game environment.
